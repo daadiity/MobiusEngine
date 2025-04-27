@@ -4,7 +4,7 @@ This project is a recreation of the MobiusEngine.ai landing page based on the pr
 
 ## 🚀 Live Demo
 View the live site here:  
-[**MobiusEngine.ai Landing Page**](https://mobius-engine-djmnt9a1q-aadityas-projects-b6e5beac.vercel.app/)
+[**MobiusEngine.ai Landing Page**](https://vercel.com/aadityas-projects-b6e5beac/mobius-engine/DaZtXCu53vQ7W4mRaR6oH8CaUKoC)
 
 ## 🛠 Tech Stack
 - **React** (Vite)
