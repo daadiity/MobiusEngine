@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply font-dm-sans text-neutral-black bg-white;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-sora font-semibold leading-heading;
+  }
+  
+  h1 {
+    @apply text-4xl md:text-5xl lg:text-h1;
+  }
+  
+  h2 {
+    @apply text-3xl md:text-4xl lg:text-h2;
+  }
+  
+  h3 {
+    @apply text-2xl md:text-3xl lg:text-h3;
+  }
+  
+  h4 {
+    @apply text-xl md:text-2xl lg:text-h4;
+  }
+  
+  p {
+    @apply text-p2 leading-body;
+  }
+}
+
+@layer components {
+  .gradient-bg {
+    background: linear-gradient(135deg, #0649E7 0%, #022183 100%);
+  }
+}
